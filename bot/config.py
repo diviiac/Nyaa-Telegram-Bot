@@ -1,4 +1,4 @@
 class Config(object):
-    API_ID = int(8978543)
-    API_HASH = "44519bc2f82cfd5366dba966c17524da"
-    BOT_TOKEN = "2089390121:AAFGyR4SuCVRKjBMyWJJYPhwimOdqkRB_Gw"
+    API_ID = int(14004199)
+    API_HASH = "cc2af30267df60c87bb95b2fe6315aa2"
+    BOT_TOKEN = "2027849210:AAGjRHhKKRhypRAJ9ZUVqVMkWHQmMnAK0ik"
